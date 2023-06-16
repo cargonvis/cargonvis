@@ -122,6 +122,7 @@ I am a first year Robotics Systems Engineering MSc. student at [Saxion Universit
 <a href="https://research.google.com/colaboratory/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-yellow?logo=GoogleColab&style=for-the-badge&logoColor=white"></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&style=for-the-badge&logoColor=white"></a>
 <a href="https://outlook.live.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?logo=MicrosoftOutlook&style=for-the-badge&logoColor=white"></a>
+<a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-black?logo=Notion&style=for-the-badge&logoColor=white"></a>
 <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&style=for-the-badge&logoColor=fff"></a>
 </p>
 
