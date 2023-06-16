@@ -30,7 +30,7 @@ I am a first year Robotics System Engineering MSc. student at [Saxion University
  **I am open to**:
 
 - any collobration work
-- robotics or machine learning projects(development or research)
+- robotics or machine learning projects (development or research)
 - research internships
 
 <br>
