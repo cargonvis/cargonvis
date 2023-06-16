@@ -15,7 +15,6 @@
 
 <!-- About me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
----
 <br>
 
 ### Hi there, I'm [Carlos Gonzalez](https://cargonvis.github.io/my_portfolio) 👋
@@ -37,7 +36,6 @@ I am a first year Robotics System Engineering MSc. student at [Saxion University
 
 <!--- Stats -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
----
 <br>
 
 <table align="center">
@@ -65,7 +63,6 @@ I am a first year Robotics System Engineering MSc. student at [Saxion University
 
 <!-- Skills -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
----
 <br>
 
 <h2>👨‍💻 Programming and Markup Languages</h2>
@@ -132,7 +129,6 @@ I am a first year Robotics System Engineering MSc. student at [Saxion University
 
 <!-- Let's connect -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
----
 <br>
 
 <a href="mailto:cgonv1993@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
