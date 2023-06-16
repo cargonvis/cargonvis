@@ -89,12 +89,15 @@ I am a first year Robotics System Engineering MSc. student at [Saxion University
 <a href="https://www.ros.org/"><img alt="ROS" src="https://img.shields.io/badge/ros-grey?style=for-the-badge&logo=Ros&logoColor=white"></a>
 <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-red?logo=Keras&style=for-the-badge&logoColor=white"></a>
 <a href="https://pjreddie.com/darknet/yolo/"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-black?logo=Yolo&style=for-the-badge&logoColor=lightblue"></a>
-<a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://img.shields.io/badge/.NET-purple?logo=Dotnet&style=for-the-badge&logoColor=white"></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img alt=".NET" src="https://img.shields.io/badge/.NET-430098?logo=Dotnet&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-darkgreen?logo=Django&style=for-the-badge&logoColor=white"></a>
 <a href="https://numpy.org/"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-blue?logo=Numpy&style=for-the-badge&logoColor=white"></a>
-<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-orange?logo=pandas&style=for-the-badge&logoColor=white"></a>
-<a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-LIME?logo=Opencv&style=for-the-badge&logoColor=white%22"></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-black?logo=pandas&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.tensorflow.org/"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-orange?logo=Tensorflow&style=for-the-badge&logoColor=white"></a>
+<a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-LIME?logo=Opencv&style=for-the-badge&logoColor=white%22"></a>
+<a href="https://scikit-learn.org/"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit%20learn-orange?logo=Scikitlearn&style=for-the-badge&logoColor=white"></a>
+<a href="https://scipy.org/"><img alt="Scipy" src="https://img.shields.io/badge/Scipy-darkblue?logo=Scipy&style=for-the-badge&logoColor=white"></a>
+<a href="https://pytorch.org/"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red?logo=Pytorch&style=for-the-badge&logoColor=white"></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
@@ -105,6 +108,9 @@ I am a first year Robotics System Engineering MSc. student at [Saxion University
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?logo=Mongodb&style=for-the-badge&logoColor=fff"></a>
 <!-- <a href="#"><img alt="NoSQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&style=for-the-badge&logoColor=white"></a> -->
 <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/Redis-red?logo=Redis&style=for-the-badge&logoColor=fff"></a>
+<a href="https://neo4j.com/"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-blue?logo=Neo4j&style=for-the-badge&logoColor=white"></a>
+<a href="https://azure.microsoft.com/en-us"><img alt="Azure" src="https://img.shields.io/badge/Azure-blue?logo=MicrosoftAzure&style=for-the-badge&logoColor=white"></a>
+<a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange?logo=AmazonAWS&style=for-the-badge&logoColor=white"></a>
 <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&style=for-the-badge&logoColor=fff"></a>
 </p>
@@ -116,7 +122,9 @@ I am a first year Robotics System Engineering MSc. student at [Saxion University
 <a href="https://manjaro.org/"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-green?logo=Manjaro&style=for-the-badge&logoColor=white%22"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?logo=visual-studio-code&style=for-the-badge&logoColor=white"></a>
 <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&style=for-the-badge&logoColor=white"></a>
+<a href="https://research.google.com/colaboratory/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-yellow?logo=GoogleColab&style=for-the-badge&logoColor=white"></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&style=for-the-badge&logoColor=white"></a>
+<a href="https://outlook.live.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?logo=MicrosoftOutlook&style=for-the-badge&logoColor=white"></a>
 <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&style=for-the-badge&logoColor=fff"></a>
 </p>
 
