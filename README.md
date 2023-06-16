@@ -19,7 +19,7 @@
 
 ### Hi there, I'm [Carlos Gonzalez](https://cargonvis.github.io/my_portfolio) 👋
 
-I am a first year Robotics System Engineering MSc. student at [Saxion University of Applied Sciences](https://www.saxion.edu/) in The Netherlands. Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects.
+I am a first year Robotics Systems Engineering MSc. student at [Saxion University of Applied Sciences](https://www.saxion.edu/) in The Netherlands. Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects.
 
 **My Reseach Interest**:
 - Robotics
