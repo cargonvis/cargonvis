@@ -120,6 +120,7 @@ I am a first year Robotics Systems Engineering MSc. student at [Saxion Universit
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?logo=visual-studio-code&style=for-the-badge&logoColor=white"></a>
 <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&style=for-the-badge&logoColor=white"></a>
 <a href="https://research.google.com/colaboratory/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-yellow?logo=GoogleColab&style=for-the-badge&logoColor=white"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?logo=docker&style=for-the-badge&logoColor=white"></a>
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&style=for-the-badge&logoColor=white"></a>
 <a href="https://outlook.live.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?logo=MicrosoftOutlook&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.notion.so/"><img alt="Notion" src="https://img.shields.io/badge/Notion-black?logo=Notion&style=for-the-badge&logoColor=white"></a>
