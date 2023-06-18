@@ -127,6 +127,14 @@ I am a first year Robotics Systems Engineering MSc. student at [Saxion Universit
 <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&style=for-the-badge&logoColor=fff"></a>
 </p>
 
+<h2>🛠️ Hardware Platforms</h2>
+
+<p>
+<a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-blue?logo=Arduino&style=for-the-badge&logoColor=fff"></a>
+<a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-red?logo=raspberry-pi&style=for-the-badge&logoColor=fff"></a>
+<a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/"><img alt="Nvidia Jetson" src="https://img.shields.io/badge/Nvidia%20Jetson-green?logo=Nvidia&style=for-the-badge&logoColor=fff"></a>
+</p>
+
 <br>
 
 <!-- Let's connect -->
