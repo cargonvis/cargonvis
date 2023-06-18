@@ -17,7 +17,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
-### Hi there, I'm [Carlos Gonzalez](https://cargonvis.github.io/my_portfolio) 👋
+### Hi there, I'm [Carlos Gonzalez](https://cargonvis.github.io/) 👋
 
 I am a first year Robotics Systems Engineering MSc. student at [Saxion University of Applied Sciences](https://www.saxion.edu/) in The Netherlands. Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects.
 
