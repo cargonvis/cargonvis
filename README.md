@@ -127,7 +127,7 @@ I am a first year Robotics Systems Engineering MSc. student at [Saxion Universit
 <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&style=for-the-badge&logoColor=fff"></a>
 </p>
 
-<h2>🛠️ Hardware Platforms</h2>
+<h2>🛠️ Embedded Devices</h2>
 
 <p>
 <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-blue?logo=Arduino&style=for-the-badge&logoColor=fff"></a>
