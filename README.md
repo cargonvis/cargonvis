@@ -19,7 +19,7 @@
 
 ### Hi there, I'm [Carlos Gonzalez](https://cargonvis.github.io/) 👋
 
-I am a first year Robotics and Control Master's student at [Umeå University](https://www.umu.se/) in Sweden. Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects.
+I am a first year Robotics and Embedded AI Master's student at [Maynooth University](https://www.maynoothuniversity.ie/) in Ireland. Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects.
 
 <!-- I am a Data Engineer currently living in Pori (Finland). Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects. -->
 
@@ -136,7 +136,7 @@ I am a first year Robotics and Control Master's student at [Umeå University](ht
 <p>
 <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-blue?logo=Arduino&style=for-the-badge&logoColor=fff"></a>
 <a href="https://www.raspberrypi.org/"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-red?logo=raspberry-pi&style=for-the-badge&logoColor=fff"></a>
-<a href="https://www.raspberrypi.org/"><img alt="ESP32" src="https://img.shields.io/badge/Adafruit%20ESP32-black?logo=adafruit&style=for-the-badge&logoColor=fff"></a>
+<a href="https://www.adafruit.com/"><img alt="ESP32" src="https://img.shields.io/badge/Adafruit%20ESP32-black?logo=adafruit&style=for-the-badge&logoColor=fff"></a>
 <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/"><img alt="Nvidia Jetson" src="https://img.shields.io/badge/Nvidia%20Jetson-green?logo=Nvidia&style=for-the-badge&logoColor=fff"></a>
 </p>
 
