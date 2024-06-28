@@ -140,7 +140,7 @@ I am a first year Robotics and Embedded AI Master's student at [Maynooth Univers
 <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/"><img alt="Nvidia Jetson" src="https://img.shields.io/badge/Nvidia%20Jetson-green?logo=Nvidia&style=for-the-badge&logoColor=fff"></a>
 </p>
 
-<h2><img src="https://emojis.sh/emoji/3d-printer-printing-3d-printer-Q870bobDVY" width ="80"> 3D design and Printing</h2>
+<h2>🖨️ 3D Design and Printing</h2>
 
 <p>
 <a href="https://www.tinkercad.com/"><img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1?logo=tinkercad&logoColor=fff&style=for-the-badge"></a>
