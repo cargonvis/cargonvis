@@ -164,3 +164,6 @@ I am a first year Robotics and Embedded AI Master's student at [Maynooth Univers
 <div style="display: flex; justify-content: center;">
   <img src="https://komarev.com/ghpvc/?username=cargonvis&label=Visitors+Count&color=brightgreen" alt="Visitors Count">
 </div>
+
+<!-- Already created badges: https://badges.pages.dev/
+Custom badge: https://medium.com/@perezlino/how-to-make-custom-logos-for-badges-using-shields-io-893a81129d8b -->
