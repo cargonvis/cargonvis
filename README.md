@@ -14,7 +14,7 @@
 
 
 <!-- About me -->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/cargonvis/cargonvis/blob/master/images/about_me.gif" width = 50px></picture> **About me**
 <br>
 
 ### Hi there, I'm [Carlos Gonzalez](https://cargonvis.github.io/) 👋
@@ -140,7 +140,7 @@ I am a first year Robotics and Embedded AI Master's student at [Maynooth Univers
 <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/"><img alt="Nvidia Jetson" src="https://img.shields.io/badge/Nvidia%20Jetson-green?logo=Nvidia&style=for-the-badge&logoColor=fff"></a>
 </p>
 
-<h2>🖨️ 3D Design and Printing</h2>
+<h2><img src="https://github.com/cargonvis/cargonvis/blob/master/images/3d_printer.gif" width ="25"> 3D Design and Printing</h2>
 
 <p>
 <a href="https://www.tinkercad.com/"><img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-1477D1?logo=tinkercad&logoColor=fff&style=for-the-badge"></a>
@@ -151,7 +151,7 @@ I am a first year Robotics and Embedded AI Master's student at [Maynooth Univers
 <br>
 
 <!-- Let's connect -->
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/cargonvis/cargonvis/blob/master/images/handshake.gif" width ="80">
 <br>
 
 <a href="mailto:cgonv1993@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
