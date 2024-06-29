@@ -106,6 +106,7 @@ I am a first year Robotics and Embedded AI Master's student at [Maynooth Univers
 <p>
 <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-orange?logo=Mariadb&style=for-the-badge&logoColor=fff"></a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=fff"></a>
+<a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge"></a>
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?logo=Mongodb&style=for-the-badge&logoColor=fff"></a>
 <!-- <a href="#"><img alt="NoSQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&style=for-the-badge&logoColor=white"></a> -->
 <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/Redis-red?logo=Redis&style=for-the-badge&logoColor=fff"></a>
