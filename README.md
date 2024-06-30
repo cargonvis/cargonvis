@@ -122,6 +122,7 @@ I am a first year Robotics and Embedded AI Master's student at [Maynooth Univers
 <p>
 <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-orange?logo=Ubuntu&style=for-the-badge&logoColor=white%22"></a>
 <a href="https://manjaro.org/"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-green?logo=Manjaro&style=for-the-badge&logoColor=white%22"></a>
+<a href="https://fedoraproject.org/"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?logo=visual-studio-code&style=for-the-badge&logoColor=white"></a>
 <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&style=for-the-badge&logoColor=white"></a>
 <a href="https://research.google.com/colaboratory/"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-yellow?logo=GoogleColab&style=for-the-badge&logoColor=white"></a>
