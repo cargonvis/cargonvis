@@ -23,8 +23,6 @@ I am a first year Robotics and Embedded AI Master's student at [Maynooth Univers
 
 <!-- I am a Data Engineer currently living in Pori (Finland). Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects. -->
 
-<!-- I am a first year Robotics Systems Engineering MSc. student at [Saxion University of Applied Sciences](https://www.saxion.edu/) in The Netherlands. Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects. -->
-
 **My Reseach Interest**:
 - Robotics
 - Machine Learning
