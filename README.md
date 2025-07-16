@@ -19,7 +19,7 @@
 
 ### Hi there, I'm [Carlos Gonzalez](https://cargonvis.github.io/) 👋
 
-I am a first year Robotics and Embedded AI Master's student at [Maynooth University](https://www.maynoothuniversity.ie/) in Ireland. Apart from that I am looking for a job on Data Analysis, Robotics, Machine Learning or Artificial Intelligence in general. I like to contribute in open source projects.
+I am a Robotics and Embedded AI Master's student at [Maynooth University](https://www.maynoothuniversity.ie/) in Ireland. Apart from that I am looking for a job on Data Analysis, Machine Learning (or Artificial Intelligence in general) or robotics. I like to contribute in open source projects.
 
 <!-- I am a Data Engineer currently living in Pori (Finland). Apart from that I am looking for a job on Robotics, Machine Learning, Data Analysis or Artificial Intelligence in general. I like to contribute in open source projects. -->
 
